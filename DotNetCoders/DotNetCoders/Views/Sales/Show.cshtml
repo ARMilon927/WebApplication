@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Show</h2>
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="form-inline">
+            <div class="form-group">
+
+                @using (Html.BeginForm("Add", "Sales", null, FormMethod.Get, new { @style = "max-width: 700px; margin: 0 180px 0 0" }))
+                {
+                    <button type="submit" class="btn btn-info" style="background: #254558"> Show</button>
+                }
+            </div>
+            <div class="form-group">
+                @using (Html.BeginForm("Show", "Sales", FormMethod.Post, new { @style = "max-width: 700px; margin: auto" }))
+                {
+                    @Html.TextBox("search", null, htmlAttributes: new { @class = "form-control", @style = "width: 200px", @type = "text", placeholder = "Search by " })
+                    <button type="submit" class="btn btn-info fa fa-search icon" style="background: #254558"> search</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>

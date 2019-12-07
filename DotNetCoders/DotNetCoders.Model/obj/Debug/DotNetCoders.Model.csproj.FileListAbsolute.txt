@@ -1,0 +1,62 @@
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csprojAssemblyReference.cache
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+I:\21-11-19\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+I:\21-11-19\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csprojAssemblyReference.cache
+I:\21-11-19\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+I:\21-11-19\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csprojAssemblyReference.cache
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csprojAssemblyReference.cache
+I:\gitlab\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+I:\gitlab\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+I:\gitlab\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csprojAssemblyReference.cache
+I:\gitlab\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+I:\gitlab\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+I:\gitlab\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
