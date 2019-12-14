@@ -42,7 +42,7 @@ namespace DotNetCoders.Repository.Repository
         }
         public List<Category> GetAll()
         {
-            return _dbContext.Categories.ToList();
+            return _dbContext.Categories.OrderBy(c=>c.Name).ToList();
         }
         public Category GetById(int id)
         {

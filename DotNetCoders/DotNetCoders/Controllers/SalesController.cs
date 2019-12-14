@@ -17,7 +17,7 @@ namespace DotNetCoders.Controllers
         CategoryManager _categoryManager = new CategoryManager();
         ProductManager _productManager = new ProductManager();
         SalesManager _salesManager = new SalesManager();
-        SalesView aSalesView = new SalesView();
+        SalesView _aSalesView = new SalesView();
         // GET: Sales
         [HttpGet]
         public ActionResult Add()
@@ -29,6 +29,8 @@ namespace DotNetCoders.Controllers
 
         private void InitialSalesView(SalesView salesView)
         {
+            salesView.SalesInfo = new SalesInfo();
+            salesView.SalesInfo.Date = DateTime.Today;
             salesView.CustomerSelectListItems = _customerManager.GetAll()
                 .Select(c => new SelectListItem()
                     {
@@ -52,7 +54,13 @@ namespace DotNetCoders.Controllers
             string message = null;
             ViewBag.ActionName = "Add";
             ViewBag.ButtonName = "Save";
-            SalesInfo salesInfo = Mapper.Map<SalesInfo>(salesView);
+            SalesInfo salesInfo = salesView.SalesInfo;
+            int LoyaltyPoint = salesView.Customer.LoyaltyPoint - salesView.Discount + (int) (salesView.GrantTotal / 1000);
+            int Id = salesView.SalesInfo.CustomerId;
+            Customer customer = new Customer();
+            customer = _customerManager.GetById(Id);
+            customer.LoyaltyPoint = LoyaltyPoint;
+            _customerManager.Update(customer);
             message = _salesManager.Insert(salesInfo) ? "Saved" : "Does not save";
             ViewBag.Message = message;
             SalesView aSalesView = new SalesView();
@@ -63,29 +71,39 @@ namespace DotNetCoders.Controllers
         [HttpGet]
         public ActionResult Show()
         {
-            return View();
+            SalesView aSalesView = new SalesView();
+            aSalesView.SalesInfos = _salesManager.Show();
+            ViewBag.product = null;
+            return View(aSalesView);
         }
 
-
-        //[HttpPost]
-        //public JsonResult Details(int id)
-        //{
-        //    aSalesView.SalesProductInfo = _PurchaseManager.Details(id);
-        //    //PurchaseView aPurchaseView = new PurchaseView();
-        //    //aPurchaseView.PurchaseInfos = _PurchaseManager.Show();
-        //    //List<PurchaseProductInfo> query = new List<PurchaseProductInfo>();
-        //    //query = 
-        //    foreach (var product in aPurchaseView.PurchaseProductInfos)
-        //    {
-        //        var name = _productManager.GetById(product.ProductId);
-        //        aPurchaseView.ProductName.Add(name.Name);
-        //        aPurchaseView.ProductCode.Add(name.Code);
-        //        var totalPrice = product.Quantity * product.UnitPrice;
-        //        aPurchaseView.TotalPrices.Add(totalPrice.ToString());
-        //    }
-        //    var x = aPurchaseView;
-        //    return Json(x, JsonRequestBehavior.AllowGet);
-        //}
+        [HttpPost]
+        public ActionResult Show(string search)
+        {
+            SalesView aSalesView = new SalesView();
+            aSalesView.SalesInfos = _salesManager.Search(search);
+            ViewBag.product = null;
+            return View(aSalesView);
+        }
+        [HttpPost]
+        public JsonResult Details(int id)
+        {
+            _aSalesView.SalesProductInfos = _salesManager.Details(id);
+            //PurchaseView aPurchaseView = new PurchaseView();
+            //aPurchaseView.PurchaseInfos = _PurchaseManager.Show();
+            //List<PurchaseProductInfo> query = new List<PurchaseProductInfo>();
+            //query = 
+            foreach (var product in _aSalesView.SalesProductInfos)
+            {
+                var name = _productManager.GetById(product.ProductId);
+                _aSalesView.ProductName.Add(name.Name);
+                _aSalesView.ProductCode.Add(name.Code);
+                var totalPrice = product.Quantity * product.MRP;
+                _aSalesView.TotalPrices.Add(totalPrice.ToString());
+            }
+            var x = _aSalesView;
+            return Json(x, JsonRequestBehavior.AllowGet);
+        }
 
         [HttpPost]
         public JsonResult AjaxMethod(string type, int value)
@@ -93,23 +111,23 @@ namespace DotNetCoders.Controllers
             switch (type)
             {
                 case "SalesInfo_CustomerId":
-                    aSalesView.LoyaltyPoint = _customerManager
+                    _aSalesView.LoyaltyPoint = _customerManager
                         .GetById(value).LoyaltyPoint;
                     break;
                 case "Category_Id":
-                    aSalesView.ProductSelectListItems = _productManager
+                    _aSalesView.ProductSelectListItems = _productManager
                         .GetAllByCategory(value)
                         .Select(p => new SelectListItem() { Value = p.Id.ToString(), Text = p.Name }
                         ).ToList();
                     break;
                 case "Product_Id":
                     List<string> productSalesInfo = _salesManager.SalesView(value, DateTime.MinValue, DateTime.MaxValue);
-                    aSalesView.Product.ReorderLevel = Convert.ToInt32(productSalesInfo[0]);
-                    aSalesView.AvailableQuantity = Convert.ToInt32(productSalesInfo[1]);
-                    aSalesView.SalesProductInfo.MRP = Convert.ToDouble(productSalesInfo[2]);
+                    _aSalesView.Product.ReorderLevel = Convert.ToInt32(productSalesInfo[0]);
+                    _aSalesView.AvailableQuantity = Convert.ToInt32(productSalesInfo[1]);
+                    _aSalesView.SalesProductInfo.MRP = Convert.ToDouble(productSalesInfo[2]);
                     break;
             }
-            return Json(aSalesView);
+            return Json(_aSalesView);
         }
     }
 }

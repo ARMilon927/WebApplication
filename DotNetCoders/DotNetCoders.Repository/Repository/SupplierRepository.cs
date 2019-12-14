@@ -47,7 +47,7 @@ namespace DotNetCoders.Repository.Repository
 
         public List<Supplier> GetAll()
         {
-            return _dbContext.Suppliers.ToList();
+            return _dbContext.Suppliers.OrderBy(c=>c.Name).ToList();
         }
         public Supplier GetById(int id)
         {

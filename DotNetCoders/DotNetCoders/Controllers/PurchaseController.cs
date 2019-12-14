@@ -22,41 +22,51 @@ namespace DotNetCoders.Controllers
         [HttpGet]
         public ActionResult Add()
         {
-            aPurchaseView.CategorySelectListItems = _categoryManager
-                .GetAll()
-                .Select(c => new SelectListItem() { Value = c.Id.ToString(), Text = c.Name }
-                ).ToList();
-
-            aPurchaseView.SupplierSelectListItems = _supplierManager
-                    .GetAll()
-                    .Select(s => new SelectListItem() {Value = s.Id.ToString(), Text = s.Name}
-                    ).ToList();
+            PurchaseInitialize();
             ViewBag.Message = null;
             return View(aPurchaseView);
         }
+
+        private void PurchaseInitialize()
+        {
+            aPurchaseView.PurchaseInfo = new PurchaseInfo {Date = DateTime.Today};
+            aPurchaseView.CategorySelectListItems = _categoryManager
+                .GetAll()
+                .Select(c => new SelectListItem() {Value = c.Id.ToString(), Text = c.Name}
+                ).ToList();
+
+            aPurchaseView.SupplierSelectListItems = _supplierManager
+                .GetAll()
+                .Select(s => new SelectListItem() {Value = s.Id.ToString(), Text = s.Name}
+                ).ToList();
+        }
+
         [HttpPost]
         public ActionResult Add(PurchaseView purchaseView)
         {
             
                 PurchaseInfo aPurchaseInfo = purchaseView.PurchaseInfo;
-                ViewBag.Message = _PurchaseManager.Insert(aPurchaseInfo) ? "saved" : "Not Saved";
-            
-                //ViewBag.Message = "Model State is not valid";
-            
-            return View();
+                ViewBag.Message = _PurchaseManager.Insert(aPurchaseInfo) ? "Purchase is saved" : "Purchase is not Saved";
+            aPurchaseView = new PurchaseView();
+            PurchaseInitialize();
+
+            return View(aPurchaseView);
         }
 
         [HttpGet]
         public ActionResult Show()
         {
-            PurchaseView aPurchaseView = new PurchaseView();
-            aPurchaseView.PurchaseInfos = _PurchaseManager.Show();
+            PurchaseView purchaseView = new PurchaseView {PurchaseInfos = _PurchaseManager.Show()};
             ViewBag.product = null;
-            return View(aPurchaseView);
+            return View(purchaseView);
         }
-        
-        
-        //[HttpPost]
+        [HttpPost]
+        public ActionResult Show(string search)
+        {
+            PurchaseView purchaseView = new PurchaseView {PurchaseInfos = _PurchaseManager.Search(search)};
+            ViewBag.product = null;
+            return View(purchaseView);
+        }
         public JsonResult Details(int id)
         {
             aPurchaseView.PurchaseProductInfos = _PurchaseManager.Details(id);
@@ -74,6 +84,12 @@ namespace DotNetCoders.Controllers
             }
             var x = aPurchaseView;
             return Json(x, JsonRequestBehavior.AllowGet);
+        }
+
+        public JsonResult GetBillNo(PurchaseInfo purchaseInfo)
+        {
+            return Json(!_PurchaseManager.Show().Any(x => x.InvoiceNo == purchaseInfo.InvoiceNo && x.Id != purchaseInfo.Id), JsonRequestBehavior.AllowGet);
+
         }
 
         [HttpPost]

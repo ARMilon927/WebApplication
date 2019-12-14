@@ -58,7 +58,7 @@
                     <td>@std.ContactPerson</td>
                     <td>
                         @Html.ActionLink("Edit", "Add", "Supplier", new { @id = std.Id }, null) |
-                        <input type="submit" value="Delete" onclick="return confirm('Are you want to delete customer @std.Name ')" />
+                        <input type="hidden" value="Delete" onclick="return confirm('Are you want to delete customer @std.Name ')" />
                     </td>
                 </tr>
             }

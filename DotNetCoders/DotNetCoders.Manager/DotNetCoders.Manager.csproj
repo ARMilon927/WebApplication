@@ -46,6 +46,7 @@
     <Compile Include="Manager\ProductManager.cs" />
     <Compile Include="Manager\PurchaseManager.cs" />
     <Compile Include="Manager\SalesManager.cs" />
+    <Compile Include="Manager\StockManager.cs" />
     <Compile Include="Manager\SupplierManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

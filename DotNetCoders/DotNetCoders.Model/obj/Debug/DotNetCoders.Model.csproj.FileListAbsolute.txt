@@ -56,7 +56,60 @@ H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders
 H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
 H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
 H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
-H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csprojAssemblyReference.cache
 H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
 H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
 H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Helpers.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Helpers.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CopyComplete
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Helpers.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Mvc.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Razor.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Razor.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Helpers.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Mvc.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Razor.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Razor.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csprojAssemblyReference.cache
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CopyComplete
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Helpers.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Helpers.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\bin\Debug\System.Web.WebPages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Model\obj\Debug\DotNetCoders.Model.csprojAssemblyReference.cache

@@ -1,0 +1,103 @@
+﻿@model DotNetCoders.Models.PurchaseReportView
+
+@section MyStyles
+{
+    <style>
+        h2 {
+            color: white;
+            text-align: center;
+            margin-bottom: 2%;
+            margin-top: 1%;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-decoration-color: turquoise;
+            background: rgb(107, 194, 130);
+        }
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background: darkslateblue;
+            text-align: center;
+            padding: 10px;
+            color: azure;
+        }
+
+        td {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+}
+
+<h2>Purchase &nbsp;&nbsp; Report</h2>
+@{ DateTime sDate = DateTime.Today; DateTime eDate = DateTime.Today;}
+
+@using (Html.BeginForm("Index", "PurchaseReport", FormMethod.Post))
+{
+    <div class="row">
+        <p style="background-color: deepskyblue; font-size:large; font-weight:700; color:#fff">From:</p>
+        <div class="col-md-6" style="background-color:aliceblue; font-size:14px">
+
+            @Html.TextBox("startDate", (sDate), "{0:yyyy-MM-dd}", htmlAttributes: new
+            {
+                @class = "form-control",
+                @type = "date",
+                @id = "startDate"
+            })
+        </div>
+        <p style="background-color:deepskyblue; font-size:large; font-weight:700; color:#fff">To:</p>
+        <div class="col-md-6" style="background-color:aliceblue; font-size:14px">
+
+            @Html.TextBox("endDate", (eDate), "{0:yyyy-MM-dd}", htmlAttributes: new
+            {
+                @class = "form-control",
+                @type = "date",
+                @id = "endDate"
+            })
+        </div>
+
+    </div>
+}
+
+<div class="row">
+    <table>
+        <tr>
+            <th>Sl</th>
+            <th>Code</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Available Quantity</th>
+            <th>Cost Price (TK) </th>
+            <th>MRP (Tk)</th>
+            <th>Profit (Tk)</th>
+
+        </tr>
+        @{ int sl = 0;}
+        @foreach (var purchase in ViewBag.Report)
+        {
+            <tr>
+                <td>@(++sl)</td>
+                <td>@purchase.Code</td>
+                <td>@purchase.Product</td>
+                <td>@purchase.Category</td>
+                <td>@purchase.AvailableQuantity</td>
+                <td>@purchase.CostPrice</td>
+                <td>@purchase.MRP</td>
+                <td>@purchase.Profit</td>
+            </tr>
+        }
+    </table>
+
+</div>
+

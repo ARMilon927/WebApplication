@@ -44,7 +44,7 @@ namespace DotNetCoders.Repository.Repository
         }
         public List<Customer> GetAll()
         {
-            return _dbContext.Customers.ToList();
+            return _dbContext.Customers.OrderBy(c=>c.Name).ToList();
         }
         public Customer GetById(int id)
         {

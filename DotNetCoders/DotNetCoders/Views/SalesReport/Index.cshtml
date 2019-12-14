@@ -7,6 +7,18 @@
 @section MyStyles
 {
     <style>
+        h2 {
+            color: white;
+            text-align: center;
+            margin-bottom: 2%;
+            margin-top: 1%;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-decoration-color: turquoise;
+            background: rgb(107, 194, 130);
+        }
+
         table {
             font-family: arial, sans-serif;
             border-collapse: collapse;
@@ -31,34 +43,37 @@
         }
     </style>
 }
+<h2>Sales &nbsp;&nbsp; Report</h2>
+@{ DateTime sDate = DateTime.Today; DateTime eDate = DateTime.Today;}
 
 @using (Html.BeginForm("Index", "SalesReport", FormMethod.Post))
 {
     <div class="row">
         <div class="col-md-3"></div>
         <div class="col-md-3">
-            @Html.TextBox("startDate", null, htmlAttributes: new
-       {
-           @class = "form-control",
-           @type = "date",
-           @id = "startDate"
-       })
+            @Html.TextBox("startDate", (sDate), "{0:yyyy-MM-dd}", htmlAttributes: new
+            {
+                @class = "form-control",
+                @type = "date",
+                @id = "startDate"
+            })
         </div>
         <div class="col-md-3">
-            @Html.TextBox("endDate", null, htmlAttributes: new
+            @Html.TextBox("endDate", (eDate), "{0:yyyy-MM-dd}", htmlAttributes: new
             {
                 @class = "form-control",
                 @type = "date",
                 @id = "endDate"
             })
         </div>
-
+        
         <div class="col-md-3">
             <input type="submit" value="submit" class="btn btn-info pull-left" style="background: #254558" />
         </div>
     </div>
 }
-
+<input type="hidden" id="hideStart" />
+<input type="hidden" id="hideEnd" />
 <div class="row">
     <table>
         <tr>
@@ -100,7 +115,43 @@
             }
         </tr>
     </table>
+    @using (Html.BeginForm("GetSalesReport", "SalesReport", FormMethod.Get))
+    {
+        @Html.TextBoxFor(c => c.startDate, htmlAttributes: new
+        {
+            @id = "reportStart", @type= "hidden"
 
+        })
+        @Html.TextBoxFor(c => c.endDate, htmlAttributes: new
+   {
+       @id = "reportEnd",
+       @type = "hidden"
+
+   })
+        <input type="submit" value="Download Sales Report as PDF" class = "btn btn-primary pull-right" style="background: #254558" target = "_blank"/>
+    }    
+    @*@Html.ActionLink("Download Sales Report as PDF", "GetSalesReport", "SalesReport", new { startDate = Model.startDate, endDate = Model.endDate }, new { @class = "btn btn-primary", @target = "_blank" })*@
 
 </div>
 
+@section MyScripts
+{
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $("#startDate").change(function() {
+                //alert($("#startDate").val());
+                var start = $("#startDate").val();
+                $("#reportStart").val(start);
+                //alert($("#reportStart").val());
+            });
+            $("#endDate").change(function () {
+                //alert($("#startDate").val());
+                var start = $("#endDate").val();
+                $("#reportEnd").val(start);
+                //alert($("#reportEnd").val());
+            });
+        });
+    </script>
+
+}

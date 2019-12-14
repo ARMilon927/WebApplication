@@ -1,0 +1,117 @@
+﻿@model DotNetCoders.Models.SalesReportView
+
+@section MyStyles
+{
+    <style>
+        h2 {
+            color: white;
+            text-align: center;
+            margin-bottom: 2%;
+            margin-top: 1%;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-decoration-color: turquoise;
+            background: rgb(107, 194, 130);
+        }
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background: darkslateblue;
+            text-align: center;
+            padding: 10px;
+            color: azure;
+        }
+
+        td {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+}
+<h2>Sales &nbsp;&nbsp; Report</h2>
+@{ DateTime sDate = DateTime.Today; DateTime eDate = DateTime.Today;}
+
+@using (Html.BeginForm("Index", "SalesReport", FormMethod.Post))
+{
+<div class="row">
+    <p style="background-color: deepskyblue; font-size:large; font-weight:700; color:#fff">From:</p>
+    <div class="col-md-6" style="background-color:aliceblue; font-size:14px">
+
+        @Html.TextBox("startDate", (sDate), "{0:yyyy-MM-dd}", htmlAttributes: new
+        {
+            @class = "form-control",
+            @type = "date",
+            @id = "startDate"
+        })
+    </div>
+    <p style="background-color:deepskyblue; font-size:large; font-weight:700; color:#fff">To:</p>
+    <div class="col-md-6" style="background-color:aliceblue; font-size:14px">
+
+        @Html.TextBox("endDate", (eDate), "{0:yyyy-MM-dd}", htmlAttributes: new
+        {
+            @class = "form-control",
+            @type = "date",
+            @id = "endDate"
+        })
+    </div>
+
+</div>
+}
+
+<div class="row">
+    <table>
+        <tr>
+            <th>Sl</th>
+            <th>Code</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Sold Quantity</th>
+            <th>Cost Price (TK) </th>
+            <th>Sales Price (Tk)</th>
+            <th>Profit (Tk)</th>
+
+        </tr>
+        @{ int sl = 0;}
+        @foreach (var sales in ViewBag.Report)
+        {
+            <tr>
+                <td>@(++sl)</td>
+                <td>@sales.Code</td>
+                <td>@sales.Product</td>
+                <td>@sales.Category</td>
+                <td>@sales.SoldQuantity</td>
+                <td>@sales.CostPrice</td>
+                <td>@sales.SalesPrice</td>
+                <td>@sales.Profit</td>
+
+            </tr>
+        }
+        <tr>
+            @if (ViewBag.Message != null)
+            {
+                <td colspan="8" class="alert alert-warning" role="alert" style="width: 100%">
+
+
+                    @ViewBag.Message
+
+
+                </td>
+            }
+        </tr>
+    </table>
+
+
+</div>
+
+

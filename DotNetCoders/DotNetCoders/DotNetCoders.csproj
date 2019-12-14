@@ -53,6 +53,10 @@
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Rotativa, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rotativa.1.7.3\lib\net461\Rotativa.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
     </Reference>
@@ -174,6 +178,10 @@
     <Content Include="Dashboard\template.html" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Rotativa\help-wkhtmltoimage.txt" />
+    <Content Include="Rotativa\help-wkhtmltopdf.txt" />
+    <Content Include="Rotativa\wkhtmltoimage.exe" />
+    <Content Include="Rotativa\wkhtmltopdf.exe" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Dashboard\assets\css\material-dashboard.css.map" />
@@ -348,6 +356,7 @@
     <Content Include="Dashboard\LICENSE.md" />
     <Content Include="Dashboard\package.json" />
     <Content Include="Dashboard\README.md" />
+    <Content Include="App_Browsers\qt.browser" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -358,28 +367,34 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\CustomerController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Controllers\PurchaseController.cs" />
     <Compile Include="Controllers\PurchaseReportController.cs" />
     <Compile Include="Controllers\SalesController.cs" />
     <Compile Include="Controllers\SalesReportController.cs" />
+    <Compile Include="Controllers\StockController.cs" />
     <Compile Include="Controllers\SupplierController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\CategoryView.cs" />
     <Compile Include="Models\CustomerView.cs" />
+    <Compile Include="Models\HomeView.cs" />
     <Compile Include="Models\ProductView.cs" />
     <Compile Include="Models\PurchaseReportView.cs" />
     <Compile Include="Models\PurchaseView.cs" />
     <Compile Include="Models\SalesReportView.cs" />
     <Compile Include="Models\SalesView.cs" />
+    <Compile Include="Models\StockViewModel.cs" />
     <Compile Include="Models\SupplierView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -412,11 +427,15 @@
     <Content Include="Views\Supplier\Add.cshtml" />
     <Content Include="Views\Shared\Supplier\_SupplierShow.cshtml" />
     <Content Include="Views\Purchase\Show.cshtml" />
-    <Content Include="Views\Purchase\Search.cshtml" />
     <Content Include="Views\PurchaseReport\Index.cshtml" />
     <Content Include="Views\Sales\Add.cshtml" />
     <Content Include="Views\Sales\Show.cshtml" />
     <Content Include="Views\SalesReport\Index.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Stock\Index.cshtml" />
+    <Content Include="Views\Shared\SalesReportPdf.cshtml" />
+    <Content Include="Views\Shared\PurchaseReportPDF.cshtml" />
+    <Content Include="Views\Stock\StockReportPdf.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

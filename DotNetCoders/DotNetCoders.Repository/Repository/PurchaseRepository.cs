@@ -39,7 +39,11 @@ namespace DotNetCoders.Repository.Repository
         }
         public List<PurchaseInfo> Show()
         {
-            return _dbContext.PurchaseInfos.Include(c => c.Supplier).ToList();
+            return _dbContext.PurchaseInfos.Include(c => c.Supplier).OrderByDescending(purchase => new{ purchase.Date, purchase.Code, purchase.InvoiceNo }).ToList();
+        }
+        public List<PurchaseInfo> Search(string search)
+        {
+            return _dbContext.PurchaseInfos.Include(c => c.Supplier).Where(c => c.Code.Contains(search) || c.Supplier.Name.Contains(search)).ToList();
         }
         ProductRepository _productRepository = new ProductRepository();
         public List<string> PurchaseView(int productId)
@@ -75,14 +79,13 @@ namespace DotNetCoders.Repository.Repository
         }
         public int PurchaseView(int productId, DateTime startDate, DateTime endDate)
         {
-            var purchaseProduct = _dbContext.PurchaseProductInfos.Where(c => c.ProductId == productId).Where(c => c.PurchaseInfo.Date < DateTime.Today).ToList();
-            var salesProduct = _dbContext.SalesProductInfos.Where(c => c.ProductId == productId).Where(c => c.SalesInfo.Date < DateTime.Today).ToList();
+            var purchaseProduct = _dbContext.PurchaseProductInfos.Where(c => c.ProductId == productId).Where(c => c.PurchaseInfo.Date <= DateTime.Today).ToList();
+            var salesProduct = _dbContext.SalesProductInfos.Where(c => c.ProductId == productId).Where(c => c.SalesInfo.Date <= DateTime.Today).ToList();
             int stockIn = 0;
             int stockOut = 0;
             int availableProduct;
             if (purchaseProduct.Count < 1 && salesProduct.Count < 1)
             {
-
                 availableProduct = 0;
                 return availableProduct;
             }
@@ -92,7 +95,6 @@ namespace DotNetCoders.Repository.Repository
             availableProduct = stockIn - stockOut;
             return availableProduct;
         }
-
         public List<PurchaseProductInfo> Details(int id)
         {
             var query = _dbContext.PurchaseProductInfos.Where(c => c.PurchaseInfoId == id).ToList();
@@ -107,15 +109,8 @@ namespace DotNetCoders.Repository.Repository
                 .Include(c => c.Product)
                 .Include(c => c.Product.Category)
                 .Where(c => c.PurchaseInfo.Date >= startDate && c.PurchaseInfo.Date <= endDate)
+                .OrderByDescending(c=>c.Id)
                 .ToList();
-
-            //var salesProductList = _dbContext.SalesProductInfos
-            //    .Include(c => c.SalesInfo)
-            //    .Include(c => c.Product)
-            //    .Include(c => c.Product.Category)
-            //    .Where(c => c.SalesInfo.Date >= startDate && c.SalesInfo.Date <= endDate)
-            //    .ToList();
-
             int index = 0;
             foreach (var purchaseProduct in purchaseProductList)
             {
@@ -123,11 +118,9 @@ namespace DotNetCoders.Repository.Repository
                 if (aList.Count < 1)
                 {
                     AddPurchaseProductReport(purchaseProduct, aList, startDate, endDate);
-
                 }
                 for (int j = 0; j < aList.Count; j++)
                 {
-                    
                     if (aList[j].Product == purchaseProduct.Product.Name)
                     {
                         flag = 0;
@@ -138,18 +131,12 @@ namespace DotNetCoders.Repository.Repository
                         flag++;
                     }
                 }
-
                 if (flag > 1)
                 {
                     AddPurchaseProductReport(purchaseProduct, aList, startDate, endDate);
                 }
-                
                 index++;
             }
-
-
-
-
             return aList;
         }
 
@@ -169,40 +156,3 @@ namespace DotNetCoders.Repository.Repository
         }
     }
 }
-
-
-//int flag = 0;
-//if (aList.Count != 0)
-//{
-
-//}
-//for (int j = 0; j<index; j++)
-//{
-//if (aList[j].Product == purchaseProduct.Product.Name)
-//{
-//aList[j].Product = purchaseProduct.Product.Name;
-//    aList[j].Code = purchaseProduct.Product.Code;
-//    aList[j].Category = purchaseProduct.Product.Category.Name;
-//    aList[j].SoldQuantity += salesProduct.Quantity;
-//    aList[j].CostPrice += purchaseProduct.UnitPrice* purchaseProduct.Quantity;
-//aList[j].SalesPrice += purchaseProduct.MRP* salesProduct.Quantity;
-//aList[j].Profit += ((purchaseProduct.MRP* salesProduct.Quantity) - (purchaseProduct.UnitPrice* salesProduct.Quantity));
-//    flag = 1;
-//    break;
-//}
-
-//}
-//if (flag != 1)
-//{
-//aList.Add(new PurchaseReportView()
-//{
-//    Product = purchaseProduct.Product.Name,
-//    Code = purchaseProduct.Product.Code,
-//    Category = purchaseProduct.Product.Category.Name,
-//    SoldQuantity = salesProduct.Quantity,
-//    CostPrice = purchaseProduct.UnitPrice * salesProduct.Quantity,
-//    SalesPrice = purchaseProduct.MRP * salesProduct.Quantity,
-//    Profit = (purchaseProduct.MRP * salesProduct.Quantity) - (purchaseProduct.UnitPrice * salesProduct.Quantity),
-//});
-//}
-//index++;

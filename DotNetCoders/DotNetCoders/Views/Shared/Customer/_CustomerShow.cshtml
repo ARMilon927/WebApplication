@@ -57,7 +57,7 @@
                 <td>@std.LoyaltyPoint</td>
                 <td>
                     @Html.ActionLink("Edit", "Add", "Customer", new { @id = std.Id }, null) |
-                    <input type="submit" value="Delete" onclick="return confirm('Are you want to delete customer @std.Name ')" />
+                    <input type="hidden" value="Delete" onclick="return confirm('Are you want to delete customer @std.Name ')" />
                 </td>
             </tr>
         }

@@ -55,7 +55,7 @@ namespace DotNetCoders.Repository.Repository
 
         public List<Product> GetAll()
         {
-            return _dbContext.Products.Include(c=> c.Category).ToList();
+            return _dbContext.Products.Include(c=> c.Category).OrderBy(c=>new{CategoryName = c.Category.Name, c.Name}).ToList();
         }
         public List<Product> GetAllByCategory(int categoryId)
         {

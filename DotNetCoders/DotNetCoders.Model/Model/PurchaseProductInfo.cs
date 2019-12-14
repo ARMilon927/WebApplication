@@ -19,6 +19,9 @@ namespace DotNetCoders.Model.Model
         [Required(ErrorMessage = "Please enter unit price")]
         [RegularExpression("^([0-9]*)+(\\.([0-9]*)+)?$", ErrorMessage = "Unit price must be a number")]
         public double UnitPrice { get; set; }
+        [Display(Name = "MRP")]
+        [Required(ErrorMessage = "Please enter mrp")]
+        [RegularExpression("^([0-9]*)+(\\.([0-9]*)+)?$", ErrorMessage = "Unit price must be a number")]
         public double MRP { get; set; }
         [Display(Name = "Manufactured Date")]
         [Required(ErrorMessage = "Please enter manufactured date")]

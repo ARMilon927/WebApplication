@@ -10,7 +10,6 @@ namespace DotNetCoders.Models
 {
     public class SalesView
     {
-
         public SalesView()
         {
             SalesProductInfo = new SalesProductInfo();
@@ -18,7 +17,11 @@ namespace DotNetCoders.Models
             Customer = new Customer();
             Product = new Product();
             Category = new Category();
+            SalesInfos = new List<SalesInfo>();
             ProductSelectListItems = new List<SelectListItem>();
+            ProductName = new List<string>();
+            ProductCode = new List<string>();
+            TotalPrices = new List<string>();
         }
 
 
@@ -47,12 +50,12 @@ namespace DotNetCoders.Models
 
 
         public List<SalesInfo> SalesInfos { get; set; }
+        public List<SalesProductInfo>  SalesProductInfos { get; set; }
 
         public SalesProductInfo SalesProductInfo { get; set; }
 
-
-
-
-
+        public List<string> ProductName { get; set; }
+        public List<string> ProductCode { get; set; }
+        public List<string> TotalPrices { get; set; }
     }
 }

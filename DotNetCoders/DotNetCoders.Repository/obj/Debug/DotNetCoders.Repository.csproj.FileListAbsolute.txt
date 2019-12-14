@@ -202,3 +202,154 @@ H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders
 H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csproj.CopyComplete
 H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.dll
 H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.dll.config
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Model.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.SqlServer.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Model.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.SqlServer.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csprojAssemblyReference.cache
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csproj.CoreCompileInputs.cache
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csproj.CopyComplete
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.SqlServer.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.SqlServer.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.SqlServer.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.SqlServer.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.dll.config
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Model.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.SqlServer.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Model.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.SqlServer.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csprojAssemblyReference.cache
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csproj.CoreCompileInputs.cache
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csproj.CopyComplete
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.SqlServer.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\EntityFramework.SqlServer.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders.Repository\obj\Debug\DotNetCoders.Repository.pdb

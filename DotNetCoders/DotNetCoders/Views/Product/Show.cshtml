@@ -38,9 +38,9 @@
             <div class="form-group">
                 @using (Html.BeginForm("Add", "Product", new { id = 0 }, FormMethod.Get, new { @style = "max-width: 700px; margin: 0 180px 0 0" }))
                 {
-                <button pull-left type="submit" class="btn btn-info" style="background: #254558"> @ViewBag.ActionName Product</button>
+                    <button pull-left type="submit" class="btn btn-info" style="background: #254558"> @ViewBag.ActionName Product</button>
                 }
-            </div>
+            </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <div class="form-group">
                 @using (Html.BeginForm("Show", "Product", FormMethod.Post, new { @style = "max-width: 700px; margin: auto" }))
                 {

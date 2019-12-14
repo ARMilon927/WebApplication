@@ -7,6 +7,16 @@
 @section MyStyles
 {
     <style>
+        h2 {
+            text-align: center;
+            margin-bottom: 2%;
+            margin-top: 1%;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-decoration-color: turquoise;
+            background: rgb(205, 234, 212);
+        }
         table {
             font-family: arial, sans-serif;
             border-collapse: collapse;
@@ -31,13 +41,14 @@
         }
     </style>
 }
-
+@{ DateTime sDate = DateTime.Today; DateTime eDate = DateTime.Today;}
+    <h2>Purchase &nbsp;&nbsp; Report</h2>
 @using (Html.BeginForm("Index", "PurchaseReport", FormMethod.Post))
 {
     <div class="row">
     <div class="col-md-3"></div>
     <div class="col-md-3">
-        @Html.TextBox("startDate", null, htmlAttributes: new
+        @Html.TextBox("startDate", (sDate), "{0:yyyy-MM-dd}", htmlAttributes: new
    {
        @class = "form-control",
        @type = "date",
@@ -45,12 +56,12 @@
    })
     </div>
     <div class="col-md-3">
-        @Html.TextBox("endDate", null, htmlAttributes: new
-        {
-            @class = "form-control",
-            @type = "date",
-            @id = "endDate"
-        })
+        @Html.TextBox("endDate", (eDate), "{0:yyyy-MM-dd}", htmlAttributes: new
+   {
+       @class = "form-control",
+       @type = "date",
+       @id = "endDate"
+   })
     </div>
 
     <div class="col-md-3">
@@ -102,4 +113,44 @@
     </table>
    
 
+@using (Html.BeginForm("GetPurchaseReport", "PurchaseReport", FormMethod.Get))
+    {
+        @Html.TextBoxFor(c => c.startDate, htmlAttributes: new
+        {
+            @id = "reportStart", @type= "hidden"
+
+        })
+        @Html.TextBoxFor(c => c.endDate, htmlAttributes: new
+       {
+       @id = "reportEnd",
+       @type = "hidden"
+
+       })
+        <input type="submit" value="Download Purchase Report as PDF" class="btn btn-primary" style="background: #254558" target="_blank" />
+    }
+    @*@Html.ActionLink("Download Sales Report as PDF", "GetSalesReport", "SalesReport", new { startDate = Model.startDate, endDate = Model.endDate }, new { @class = "btn btn-primary", @target = "_blank" })*@
+
+
 </div>
+
+@section MyScripts
+{
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#startDate").change(function () {
+                //alert($("#startDate").val());
+                var start = $("#startDate").val();
+                $("#reportStart").val(start);
+                alert($("#reportStart").val());
+            });
+            $("#endDate").change(function () {
+                //alert($("#startDate").val());
+                var start = $("#endDate").val();
+                $("#reportEnd").val(start);
+                alert($("#reportEnd").val());
+            });
+        });
+    </script>
+
+}				  

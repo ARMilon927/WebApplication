@@ -47,6 +47,7 @@ namespace DotNetCoders.Models
 
         public List<PurchaseInfo> PurchaseInfos { get; set; }
         public List<PurchaseProductInfo> PurchaseProductInfos { get; set; }
+        [Required]
         public PurchaseProductInfo PurchaseProductInfo { get; set; }
 
     }

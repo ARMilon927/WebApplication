@@ -1137,3 +1137,444 @@ H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders
 H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csproj.CopyComplete
 H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.dll
 H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.dll.config
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\csc.exe
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\csc.exe.config
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\csc.rsp
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\csi.exe
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\csi.exe.config
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\csi.rsp
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.Managed.Core.targets
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.AppContext.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Collections.Immutable.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Console.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Compression.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.FileSystem.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Pipes.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Reflection.Metadata.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.AccessControl.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Claims.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Principal.Windows.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.ValueTuple.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XmlDocument.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XPath.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\vbc.exe
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\vbc.exe.config
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\vbc.rsp
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\VBCSCompiler.exe
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\roslyn\VBCSCompiler.exe.config
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\AutoMapper.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.Manager.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.Model.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\EntityFramework.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\EntityFramework.SqlServer.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\Microsoft.Web.Infrastructure.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.ValueTuple.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Helpers.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Mvc.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Razor.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Deployment.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Razor.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.Manager.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.Model.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\AutoMapper.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\AutoMapper.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\EntityFramework.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\EntityFramework.SqlServer.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.ValueTuple.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Razor.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Deployment.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Razor.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Helpers.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\System.Web.Mvc.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.dll.config
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.dll.config
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csprojAssemblyReference.cache
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csproj.CoreCompileInputs.cache
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csproj.CopyComplete
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.dll.config
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csc.exe
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csc.exe.config
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csc.rsp
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csi.exe
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csi.exe.config
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csi.rsp
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.Managed.Core.targets
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.AppContext.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Collections.Immutable.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Console.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Compression.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.FileSystem.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Pipes.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Reflection.Metadata.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.AccessControl.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Claims.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Principal.Windows.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.ValueTuple.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XmlDocument.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XPath.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\vbc.exe
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\vbc.exe.config
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\vbc.rsp
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\VBCSCompiler.exe
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\VBCSCompiler.exe.config
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\AutoMapper.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\EntityFramework.SqlServer.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.ValueTuple.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Helpers.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\AutoMapper.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\AutoMapper.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\EntityFramework.SqlServer.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.ValueTuple.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Deployment.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Helpers.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.dll.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csc.exe
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csc.exe.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csc.rsp
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csi.exe
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csi.exe.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\csi.rsp
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.Managed.Core.targets
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.AppContext.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Collections.Immutable.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Console.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Compression.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.FileSystem.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Pipes.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Reflection.Metadata.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.AccessControl.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Claims.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Principal.Windows.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.ValueTuple.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XmlDocument.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XPath.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\vbc.exe
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\vbc.exe.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\vbc.rsp
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\VBCSCompiler.exe
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\roslyn\VBCSCompiler.exe.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\AutoMapper.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\EntityFramework.SqlServer.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.ValueTuple.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Helpers.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\AutoMapper.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\AutoMapper.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\EntityFramework.SqlServer.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.ValueTuple.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Deployment.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Helpers.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.dll.config
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\csc.exe
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\csc.exe.config
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\csc.rsp
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\csi.exe
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\csi.exe.config
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\csi.rsp
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.Managed.Core.targets
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.AppContext.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Collections.Immutable.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Console.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Compression.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.FileSystem.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Pipes.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Reflection.Metadata.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.AccessControl.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Claims.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Principal.Windows.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.ValueTuple.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XmlDocument.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XPath.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\vbc.exe
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\vbc.exe.config
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\vbc.rsp
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\VBCSCompiler.exe
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\roslyn\VBCSCompiler.exe.config
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\AutoMapper.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Manager.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Model.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\EntityFramework.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\EntityFramework.SqlServer.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\Microsoft.Web.Infrastructure.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.ValueTuple.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Helpers.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Mvc.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Razor.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Deployment.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Razor.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Manager.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Model.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\AutoMapper.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\AutoMapper.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\EntityFramework.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\EntityFramework.SqlServer.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.ValueTuple.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Razor.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Deployment.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Razor.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Helpers.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\System.Web.Mvc.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.dll.config
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.pdb
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.dll.config
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csprojAssemblyReference.cache
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csproj.CoreCompileInputs.cache
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csproj.CopyComplete
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.dll
+I:\project\BITM\Final\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.dll.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\csc.exe
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\csc.exe.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\csc.rsp
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\csi.exe
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\csi.exe.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\csi.rsp
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.Managed.Core.targets
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.AppContext.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Collections.Immutable.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Console.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Compression.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.FileSystem.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.IO.Pipes.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Reflection.Metadata.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.AccessControl.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Claims.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Security.Principal.Windows.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.ValueTuple.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XmlDocument.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XPath.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\vbc.exe
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\vbc.exe.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\vbc.rsp
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\VBCSCompiler.exe
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\roslyn\VBCSCompiler.exe.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\AutoMapper.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\EntityFramework.SqlServer.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.ValueTuple.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Helpers.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\AutoMapper.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\AutoMapper.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\EntityFramework.SqlServer.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.ValueTuple.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Deployment.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Webpages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Helpers.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.dll
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\obj\Debug\DotNetCoders.pdb
+H:\BITM Course\project\BITM\Original\Backup\10-12-2019\Final\DotNetCoders\DotNetCoders\bin\Rotativa.dll

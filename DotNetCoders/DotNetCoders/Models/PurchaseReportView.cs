@@ -16,6 +16,8 @@ namespace DotNetCoders.Models
         //public double SalesPrice { get; set; }
         public double MRP { get; set; }
         public double Profit { get; set; }
+        public DateTime startDate { get; set; }
+        public DateTime endDate { get; set; }
 
     }
 }

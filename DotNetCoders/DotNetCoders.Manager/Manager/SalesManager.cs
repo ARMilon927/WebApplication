@@ -23,6 +23,10 @@ namespace DotNetCoders.Manager.Manager
             return _salesRepository.Show();
         }
 
+        public List<SalesInfo> Search(string search)
+        {
+            return _salesRepository.Search(search);
+        }
         public List<string> SalesView(int productId, DateTime startDate, DateTime endDate)
         {
             return _salesRepository.SalesView(productId, startDate, endDate);

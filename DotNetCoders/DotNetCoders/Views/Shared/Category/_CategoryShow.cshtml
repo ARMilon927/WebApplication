@@ -50,8 +50,8 @@
                 <td>@std.Code</td>
                 <td>@std.Name</td>                
                 <td>
-                    @Html.ActionLink("Edit", "Add", "Category", new { @id = std.Id }, null) |
-                    <input type="submit" value="Delete" onclick="return confirm('Are you want to delete Category @std.Name ')" />
+                    @Html.ActionLink("Edit", "Add", "Category", new { @id = std.Id }, null) 
+                    <input type="hidden" value="Delete" onclick="return confirm('Are you want to delete Category @std.Name ')" />
                 </td>
             </tr>
         }

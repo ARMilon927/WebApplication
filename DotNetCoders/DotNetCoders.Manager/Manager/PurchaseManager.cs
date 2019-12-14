@@ -24,11 +24,10 @@ namespace DotNetCoders.Manager.Manager
             return _purchaseRepository.Show();
         }
 
-        //public dynamic ProductView()
-        //{
-        //    return _purchaseRepository.ProductView();
-        //}
-
+        public List<PurchaseInfo> Search(string search)
+        {
+            return _purchaseRepository.Search(search);
+        }
         public List<string> PurchaseView(int productId)
         {
             return _purchaseRepository.PurchaseView(productId);

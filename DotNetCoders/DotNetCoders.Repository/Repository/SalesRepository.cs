@@ -13,7 +13,8 @@ namespace DotNetCoders.Repository.Repository
         ProjectDbContext _dbContext = new ProjectDbContext();
         public bool Insert(SalesInfo salesInfo)
         {
-            var data = _dbContext.SalesProductInfos.OrderByDescending(c => c).Select(c => c.Id).FirstOrDefault();
+            var data = _dbContext.SalesInfos.OrderByDescending(person => person.Id)
+                .Select(person => person.Id).FirstOrDefault();
             string code;
             if (data != 0)
             {
@@ -34,14 +35,18 @@ namespace DotNetCoders.Repository.Repository
         }
         public List<SalesInfo> Show()
         {
-            return _dbContext.SalesInfos.Include(c => c.Customer).ToList();
+            return _dbContext.SalesInfos.Include(c => c.Customer).OrderByDescending(sales => sales.Date).ToList();
+        }
+        public List<SalesInfo> Search(string search)
+        {
+            return _dbContext.SalesInfos.Include(c => c.Customer).Where(c => c.Code.Contains(search) || c.Customer.Name.Contains(search)).ToList();
         }
         ProductRepository _productRepository = new ProductRepository();
         public List<string> SalesView(int productId, DateTime startDate, DateTime endDate)
         {
             List<string> productInfo = new List<string>();
-            var purchaseProduct = _dbContext.PurchaseProductInfos.Where(c => c.ProductId == productId).Where(c => c.PurchaseInfo.Date < endDate).ToList();
-            var salesProduct = _dbContext.SalesProductInfos.Where(c => c.ProductId == productId).Where(c => c.SalesInfo.Date < endDate).ToList();
+            var purchaseProduct = _dbContext.PurchaseProductInfos.Where(c => c.ProductId == productId).Where(c => c.PurchaseInfo.Date <= endDate).ToList();
+            var salesProduct = _dbContext.SalesProductInfos.Where(c => c.ProductId == productId).Where(c => c.SalesInfo.Date <= endDate).ToList();
             string reorderLevel = _productRepository.GetAll().Where(c => c.Id == productId).Select(c => c.ReorderLevel.ToString()).FirstOrDefault();
             productInfo.Add(reorderLevel);
             int stockIn = 0;
@@ -65,7 +70,10 @@ namespace DotNetCoders.Repository.Repository
         public List<SalesProductInfo> Details(int id)
         {
             var query = _dbContext.SalesProductInfos.Where(c => c.SalesInfoId == id).ToList();
-
+            foreach (var data in query)
+            {
+                data.PayableAmount = (data.MRP*data.Quantity) - (data.DiscountAmount * data.Quantity);
+            }
             return query;
         }
         public List<SalesReportView> SalesReportViews(DateTime startDate, DateTime endDate)
@@ -87,7 +95,7 @@ namespace DotNetCoders.Repository.Repository
                 {
                     AddSalesProductReport(salesProduct, aList, startDate, endDate);
                 }
-                for (int j = 0; j < index; j++)
+                for (int j = 0; j < aList.Count; j++)
                 {
 
                     if (aList[j].Product == salesProduct.Product.Name)
@@ -153,5 +161,6 @@ namespace DotNetCoders.Repository.Repository
             }
             return costPrice;
         }
+        
     }
 }
