@@ -11,7 +11,6 @@ namespace DotNetCoders.Models
     public class SupplierView
     {
         public int Id { get; set; }
-        [Remote("GetSupplierCode", "Supplier", AdditionalFields = "Id", ErrorMessage = "This code is already used")]
         [Display(Name = " Code ")]
         [Required(ErrorMessage = "Please enter code")]
         [MaxLength(4, ErrorMessage = "Code must be in 4 characters")]
@@ -23,14 +22,12 @@ namespace DotNetCoders.Models
         [Display(Name = " Address ")]
         public string Address { get; set; }
         [Display(Name = " Email ")]
-        [Remote("GetSupplierEmail", "Supplier", AdditionalFields = "Id", ErrorMessage = "This email is already used")]
         [Required(ErrorMessage = "Please enter email")]
         [EmailAddress]
         [RegularExpression("^[_A-Za-z'`+-.]+([_A-Za-z0-9'+-.]+)*@([A-Za-z0-9-])+(\\.[A-Za-z0-9]+)*(\\.([A-Za-z]*){3,})$", ErrorMessage = "Enter proper email")]
         [DataType(DataType.EmailAddress, ErrorMessage = "Format not proper of email address")]
         public string Email { get; set; }
         [Display(Name = " Contact ")]
-        [Remote("GetSupplierContact", "Supplier", AdditionalFields = "Id", ErrorMessage = "This contact is already used")]
         [Required(ErrorMessage = "Please enter contact no")]
         [RegularExpression("([01][0-9]*)", ErrorMessage = "Point must be digits")]
         [MaxLength(11, ErrorMessage = "Contact number must be in 11 digits")]

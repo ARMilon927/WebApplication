@@ -20,10 +20,6 @@ namespace DotNetCoders.Repository.Repository
             {
                allProduct = _dbContext.Products.Include(x => x.Category).Where(x=>x.Id==produtId).ToList();
             }
-            else if(categoryId !=null)
-            {
-                allProduct = _dbContext.Products.Include(x => x.Category).Where(c=>c.CategoryId == categoryId).ToList();
-            }
             else 
             {
                 allProduct = _dbContext.Products.Include(x => x.Category).ToList();

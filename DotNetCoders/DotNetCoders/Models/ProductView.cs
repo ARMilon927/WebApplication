@@ -13,7 +13,6 @@ namespace DotNetCoders.Models
     {
         public int Id { get; set; }
 
-        [Remote("GetProductCode", "Product", AdditionalFields = "Id", ErrorMessage = "This code is already used")]
         [Display(Name = " Code ")]
         [Required(ErrorMessage = "Please enter code")]
         [MaxLength(4, ErrorMessage = "Code must be in 4 characters")]
@@ -22,7 +21,6 @@ namespace DotNetCoders.Models
 
         [Display(Name = " Name ")]
         [Required(ErrorMessage = "Please enter name")]
-        [Remote("GetProductName", "Product", AdditionalFields = "Id", ErrorMessage = "This name is already used")]
         public string Name { get; set; }
 
 

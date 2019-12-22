@@ -14,27 +14,7 @@ namespace DotNetCoders.Repository.Repository
         ProjectDbContext _dbContext = new ProjectDbContext();
         public bool Insert(PurchaseInfo purchaseInfo)
         {
-            var data = _dbContext.PurchaseInfos.OrderByDescending(person => person.Id)
-                .Select(person => person.Id).FirstOrDefault();
-            
-            string code;
-            if (data != 0)
-            {
-                int id = int.Parse(data.ToString()) + 1;
-                code = "P019-" + id.ToString("0000");
-            }
-            else if (data == 0)
-            {
-                code = ("P019-" + "0001");
-            }
-            else
-            {
-                code = ("P019-" + "0001");
-            }
-
-            purchaseInfo.Code = code;
-
-            _dbContext.PurchaseInfos.Add(purchaseInfo);
+           _dbContext.PurchaseInfos.Add(purchaseInfo);
             return _dbContext.SaveChanges() > 0;
         }
         public List<PurchaseInfo> Show()

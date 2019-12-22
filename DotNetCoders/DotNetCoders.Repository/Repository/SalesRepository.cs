@@ -13,23 +13,6 @@ namespace DotNetCoders.Repository.Repository
         ProjectDbContext _dbContext = new ProjectDbContext();
         public bool Insert(SalesInfo salesInfo)
         {
-            var data = _dbContext.SalesInfos.OrderByDescending(person => person.Id)
-                .Select(person => person.Id).FirstOrDefault();
-            string code;
-            if (data != 0)
-            {
-                int id = int.Parse(data.ToString()) + 1;
-                code = "S019-" + id.ToString("0000");
-            }
-            else if (data == 0)
-            {
-                code = ("S019-" + "0001");
-            }
-            else
-            {
-                code = ("S019-" + "0001");
-            }
-            salesInfo.Code = code;
             _dbContext.SalesInfos.Add(salesInfo);
             return _dbContext.SaveChanges() > 0;
         }

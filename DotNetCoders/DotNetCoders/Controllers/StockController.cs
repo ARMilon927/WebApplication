@@ -52,20 +52,7 @@ namespace DotNetCoders.Controllers
             model.Categories = _categoryManager.GetAll();
             return View(model);
         }
-        [HttpGet]
-        public ActionResult GetStockReport(int? categoryId, int? productId, DateTime startDate, DateTime endDate)
-        {
-
-            var report = new ActionAsPdf("StockReportPdf", new {categoryId, productId, startDate, endDate }) { FileName = "SalesReportPdf.pdf" };
-            return report;
-        }
-
-        public ActionResult StockReportPdf(int? categoryId, int? productId, DateTime startDate, DateTime endDate)
-        {
-            StockViewModel model = new StockViewModel();
-            model.Stocks = _stockManager.StockReports(categoryId, productId, startDate, endDate).Where(x => x.In != 0 || x.Out != 0 || x.OpeningBalance != 0 || x.ClosingBalance != 0).ToList(); ;
-            
-            return View(model);
-        }
+        
+        
     }
 }

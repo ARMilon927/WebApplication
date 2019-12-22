@@ -11,7 +11,6 @@ namespace DotNetCoders.Models
     public class CategoryView
     {
         public int Id { get; set; }
-        [Remote("GetCategoryCode","Category",AdditionalFields = "Id",ErrorMessage = "This code is already used")]
         [Display(Name = " Code ")]
         [Required(ErrorMessage = "Please enter code")]
         [MaxLength(4, ErrorMessage = "Code must be in 4 characters")]
@@ -19,7 +18,6 @@ namespace DotNetCoders.Models
         public string Code { get; set; }
         [Display(Name = " Name ")]
         [Required(ErrorMessage = "Please enter name")]
-        [Remote("GetCategoryName", "Category", AdditionalFields = "Id", ErrorMessage = "This name is already used")]
         public string Name { get; set; }
         
         public List<Category> Categories { get; set; }
